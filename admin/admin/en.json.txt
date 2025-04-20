@@ -1,0 +1,9 @@
+{
+  "welcome": "Ibadiyah - People of Truth & Uprightness",
+  "about": "About Us",
+  "principles": "Principles",
+  "gallery": "Gallery",
+  "articles": "Articles",
+  "fatwas": "Fatwas",
+  "contact": "Contact Us"
+}

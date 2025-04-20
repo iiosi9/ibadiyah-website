@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>الإباضية أهل الحق والاستقامة</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 data-key="welcome">الإباضية أهل الحق والاستقامة</h1>
+    <nav>
+      <ul>
+        <li><a href="#about" data-key="about">من نحن</a></li>
+        <li><a href="#principles" data-key="principles">المبادئ</a></li>
+        <li><a href="#gallery" data-key="gallery">معرض الصور</a></li>
+        <li><a href="#articles" data-key="articles">مقالات</a></li>
+        <li><a href="#fatwas" data-key="fatwas">فتاوى</a></li>
+        <li><a href="#contact" data-key="contact">تواصل معنا</a></li>
+      </ul>
+      <div>
+        <button onclick="changeLang('ar')">🇸🇦 عربي</button>
+        <button onclick="changeLang('en')">🇺🇸 English</button>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+      <h2>من نحن</h2>
+      <p>الإباضية هي إحدى المذاهب الإسلامية، تُعرف بالاعتدال والاستقامة واتباع الحق.</p>
+    </section>
+    <section id="principles">
+      <h2>مبادئ الإباضية</h2>
+      <ul>
+        <li>العدل والتوحيد</li>
+        <li>العمل الصالح والصدق</li>
+        <li>الزهد في الدنيا والورع</li>
+      </ul>
+    </section>
+    <section id
+

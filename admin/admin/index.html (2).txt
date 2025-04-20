@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>لوحة الإدارة</title>
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <h1>مرحبًا بك في لوحة الإدارة</h1>
+  <p>هنا يمكنك التحكم بالمقالات والمعرض والفتاوى والمزيد لاحقًا.</p>
+</body>
+</html>

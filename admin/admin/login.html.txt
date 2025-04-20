@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>تسجيل الدخول</title>
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <main>
+    <h1>تسجيل الدخول للمشرف</h1>
+    <form onsubmit="return login(event)">
+      <input type="text" id="username" placeholder="اسم المستخدم" required>
+      <input type="password" id="password" placeholder="كلمة المرور" required>
+      <button type="submit">دخول</button>
+    </form>
+    <p id="login-error" style="color: red; display: none;">بيانات غير صحيحة!</p>
+  </main>
+  <script src="../auth/auth.js"></script>
+</body>
+</html>
